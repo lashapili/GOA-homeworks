@@ -1,0 +1,7 @@
+favourite_sport = input("enter_your_favorite_sport:" )
+input("your_name:")
+input("your_surename:")
+input("your_hobby: ")
+input("your_city: ")
+input("your_age: ")
+int(10+10)
